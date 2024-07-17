@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #021622;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .page-flex {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+  }
+
+  .bg-primary {
+    background-color: transparent !important;
+  }
+  
+  .btn-login {
+    background-color: #00A5A7 !important;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: white;
+  }
+
+  .btn-login:hover{
+    background-color: #00A5A7 !important;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: white;
+  }
+
+  .login-form {
+    height: 400px; 
+  }

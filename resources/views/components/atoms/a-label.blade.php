@@ -1,0 +1,1 @@
+<label {{$attributes->merge(['class'=>'form-label', 'style' => 'font-weight:bold'])}}>{{$slot}}</label>
